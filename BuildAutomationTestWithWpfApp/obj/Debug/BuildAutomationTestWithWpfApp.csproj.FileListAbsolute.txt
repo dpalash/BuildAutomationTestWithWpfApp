@@ -1,0 +1,16 @@
+c:\users\palash\documents\visual studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\bin\Debug\BuildAutomationTestWithWpfApp.exe.config
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\bin\Debug\BuildAutomationTestWithWpfApp.exe
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\bin\Debug\BuildAutomationTestWithWpfApp.pdb
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\obj\Debug\App.g.cs
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\obj\Debug\BuildAutomationTestWithWpfApp_MarkupCompile.cache
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\obj\Debug\BuildAutomationTestWithWpfApp_MarkupCompile.lref
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\obj\Debug\MainWindow.baml
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\obj\Debug\BuildAutomationTestWithWpfApp.g.resources
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\obj\Debug\BuildAutomationTestWithWpfApp.Properties.Resources.resources
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\obj\Debug\BuildAutomationTestWithWpfApp.csproj.GenerateResource.Cache
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\obj\Debug\BuildAutomationTestWithWpfApp.exe
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\obj\Debug\BuildAutomationTestWithWpfApp.pdb
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\bin\Debug\BuildAutomationTestWithWpfApp.exe.config
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\obj\Debug\BuildAutomationTestWithWpfApp.exe
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\BuildAutomationTestWithWpfApp\obj\Debug\BuildAutomationTestWithWpfApp.pdb

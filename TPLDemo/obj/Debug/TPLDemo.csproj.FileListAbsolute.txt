@@ -1,0 +1,6 @@
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\TPLDemo\bin\Debug\TPLDemo.exe.config
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\TPLDemo\bin\Debug\TPLDemo.exe
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\TPLDemo\bin\Debug\TPLDemo.pdb
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\TPLDemo\obj\Debug\TPLDemo.csprojResolveAssemblyReference.cache
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\TPLDemo\obj\Debug\TPLDemo.exe
+C:\Users\Palash\Documents\Visual Studio 2015\Projects\BuildAutomationTestWithWpfApp\TPLDemo\obj\Debug\TPLDemo.pdb

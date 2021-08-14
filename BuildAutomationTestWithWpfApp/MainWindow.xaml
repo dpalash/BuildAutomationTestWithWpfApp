@@ -1,0 +1,19 @@
+﻿<Window x:Class="BuildAutomationTestWithWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BuildAutomationTestWithWpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <TextBlock x:Uid="GreetingsTextBlock"
+                       Margin="0,0,0,20"
+                   Text="Hello! Welcome to my build automation test. First run try">
+            </TextBlock>
+            <Button x:Uid="ClickMe" Content="Click me!" Height="50" Width="300" Click="Button_Click"></Button>
+            <TextBlock x:Uid="txtDeveloperName" x:Name="txtDeveloperName">sad</TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>
